@@ -3,4 +3,5 @@
 - 🌱 Actuellement, j'apprends à approfondir mes compétences en Python, en modélisation de données et en visualisation de données.
 - 💞️ Je suis ouvert à la collaboration sur des projets liés à l'analyse de données et à la science des données.
 - 📫 Vous pouvez me contacter via mon email au : mkonzi7@gmail.com
+- 📫 Egalement sur Linkdln : https://www.linkedin.com/in/ghislain-konzi-704150192/
 - ⚡ Fun fact : J'aime résoudre des énigmes et découvrir de nouveaux jeux de données intéressants !
