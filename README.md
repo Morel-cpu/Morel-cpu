@@ -1,0 +1,6 @@
+- 👋 Salut, je suis Ghilain KONZI
+- 👀 Je m'intéresse à l'analyse de données, la science des données et l'apprentissage automatique.
+- 🌱 Actuellement, j'apprends à approfondir mes compétences en Python, en modélisation de données et en visualisation de données.
+- 💞️ Je suis ouvert à la collaboration sur des projets liés à l'analyse de données et à la science des données.
+- 📫 Vous pouvez me contacter via mon email au : mkonzi7@gmail.com
+- ⚡ Fun fact : J'aime résoudre des énigmes et découvrir de nouveaux jeux de données intéressants !
